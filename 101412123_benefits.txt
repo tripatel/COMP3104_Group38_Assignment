@@ -1,0 +1,1 @@
+ "DevOps shortens the release cycles, making software delivery more efficient." 
