@@ -1,0 +1,1 @@
+ "COMP 3104 includes hands-on labs and assignments." 
