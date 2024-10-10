@@ -1,0 +1,5 @@
+Explanation of containerization and the role of Docker in DevOps.
+Benefits of using containers: consistency across environments, fast deployment, and isolation.
+Key Docker concepts: images, containers, Dockerfile, Docker Compose, Docker Hub.
+How to use Docker for development, testing, and production environments.
+Integrating Docker into CI/CD pipelines for streamlined deployments.

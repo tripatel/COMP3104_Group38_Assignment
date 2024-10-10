@@ -1,0 +1,5 @@
+Introduction to Kubernetes and its role in DevOps.
+Key components of Kubernetes: pods, nodes, clusters, services, deployments.
+How Kubernetes manages container orchestration and scaling.
+Integration with DevOps pipelines for automating deployments.
+Use cases for Kubernetes in microservices architecture and cloud environments.

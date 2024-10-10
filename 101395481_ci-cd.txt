@@ -1,0 +1,5 @@
+Explanation of Continuous Integration (CI) and Continuous Delivery/Deployment (CD).
+Tools used for CI/CD, such as Jenkins, GitLab CI, CircleCI, and Travis CI.
+How to automate the testing, integration, and deployment process.
+Benefits of CI/CD in reducing errors, speeding up releases, and ensuring consistent testing.
+Examples of pipeline workflows in modern CI/CD setups.

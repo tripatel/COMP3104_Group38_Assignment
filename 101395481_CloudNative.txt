@@ -1,0 +1,5 @@
+Introduction to cloud-native architecture and its role in modern DevOps.
+Key concepts: microservices, containerization, service mesh, and serverless computing.
+Cloud-native DevOps tools: Kubernetes, Docker, Helm, Istio.
+How cloud-native practices support scalability, flexibility, and resilience.
+Example architectures of cloud-native applications deployed on AWS, Azure, or Google Cloud.

@@ -1,0 +1,5 @@
+The importance of monitoring and logging in a DevOps environment.
+Tools for monitoring system health and application performance: Prometheus, Grafana, Datadog.
+Centralized logging systems: ELK stack (Elasticsearch, Logstash, Kibana), Fluentd, Splunk.
+How monitoring and logging improve troubleshooting, system uptime, and performance.
+Examples of setting up dashboards for real-time monitoring.

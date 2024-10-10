@@ -1,0 +1,5 @@
+Definition and importance of Infrastructure as Code in DevOps.
+Tools used for IaC: Terraform, Ansible, Puppet, Chef.
+How IaC helps automate infrastructure provisioning and management.
+Best practices for managing infrastructure using code (version control, automation).
+Example use cases: creating scalable cloud environments in AWS/Azure/GCP using IaC.

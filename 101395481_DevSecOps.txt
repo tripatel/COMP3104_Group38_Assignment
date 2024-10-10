@@ -1,0 +1,5 @@
+Introduction to DevSecOps and its goal of integrating security into DevOps workflows.
+Key areas of security in the DevOps pipeline: code scanning, vulnerability assessment, encryption.
+Tools for DevSecOps: Aqua Security, Snyk, HashiCorp Vault, OWASP Dependency-Check.
+Best practices for incorporating security checks into the CI/CD pipeline.
+The importance of "shift-left" security: addressing security early in the development lifecycle.
