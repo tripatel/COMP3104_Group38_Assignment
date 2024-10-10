@@ -1,0 +1,1 @@
+COMP 3104 is a course focused on DevOps, which introduces students to the integration of software development and IT operations. Topics include continuous integration, automated testing, containerization, and monitoring. The course helps students understand the principles of automating the software development lifecycle to enhance the delivery process.
