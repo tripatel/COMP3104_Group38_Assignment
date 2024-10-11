@@ -1,0 +1,5 @@
+1. **Jenkins**: Jenkins is a continuous integration and continuous delivery tool that automates the building, testing, and deploying of software projects.
+2. **Docker**: Docker is a containerization platform that allows applications to be packaged with all their dependencies, ensuring consistency across development, testing, and production environments.
+3. **Kubernetes**: Kubernetes is a container orchestration platform that automates the deployment, scaling, and management of containerized applications.
+4. **Ansible**: Ansible is a configuration management tool used for automating application deployment, server provisioning, and IT orchestration.
+5. **Git**: Git is a version control system that tracks changes in source code during software development, enabling team collaboration and managing code history.
