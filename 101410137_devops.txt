@@ -1,0 +1,39 @@
+DevOps Fundamentals:
+
+Understanding the principles of DevOps, its purpose, and benefits.
+Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment.
+The DevOps lifecycle (Plan, Develop, Build, Test, Release, Deploy, Operate, Monitor).
+Version Control Systems:
+
+Using Git and GitHub/GitLab for source control.
+Branching, merging, and pull requests.
+Automation in DevOps:
+
+CI/CD Pipelines: Automating builds, tests, and deployments.
+Tools like Jenkins, CircleCI, or GitLab CI to automate the pipeline.
+Automating infrastructure provisioning using tools like Terraform or CloudFormation.
+Containerization and Virtualization:
+
+Introduction to containers using Docker.
+Orchestration of containers with Kubernetes.
+Infrastructure as Code (IaC):
+
+Managing and provisioning computing infrastructure through machine-readable configuration files rather than physical hardware management.
+Tools like Ansible, Chef, Puppet, or Terraform.
+Cloud Computing:
+
+Understanding cloud platforms like AWS, Google Cloud, or Azure.
+Deploying applications on cloud infrastructure.
+Concepts of scalability, high availability, and fault tolerance in cloud environments.
+Monitoring and Logging:
+
+Tools like Prometheus, Grafana, and ELK Stack (Elasticsearch, Logstash, Kibana).
+Setting up logging and monitoring for applications and infrastructure.
+Security in DevOps (DevSecOps):
+
+Incorporating security practices in the DevOps lifecycle.
+Tools for automated security checks like SonarQube and Snyk.
+Container Management & Orchestration:
+
+Building, deploying, and managing containerized applications.
+Using Kubernetes for large-scale container orchestration.
