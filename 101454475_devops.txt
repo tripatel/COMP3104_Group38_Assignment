@@ -24,3 +24,13 @@ Evaluation System:
 - **Final Exam**: Worth 30% of the final grade. (No AI usage allowed)
 
 Total: 100%
+
+### Assignment Policy:
+- Assignments must be submitted by the due date. Late submissions incur a 20% penalty per day, up to a maximum of seven days (weekends included), unless the professor is notified in advance with a valid reason.
+  
+### Test Policy:
+- Tests and the final exam must be completed on the assigned day. Students must inform the professor at least three days prior if unable to take a test/exam to arrange alternatives. Failure to do so may result in a zero grade.
+- No makeup quizzes or lab exercises will be offered. Notify the professor in advance if more than two quizzes or labs will be missed due to serious reasons.
+
+### In-Person Exam Policy:
+- Mid-term exams will be held in Week 7, and final exams in Week 15. Students must be available for in-person exams during these periods.
