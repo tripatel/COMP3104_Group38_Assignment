@@ -17,3 +17,38 @@ Importance of DevOps:
 7. **Continuous Improvement**: Continuous monitoring and feedback foster an environment of ongoing process enhancement, ensuring software meets evolving user needs.
 
 8. **Faster Recovery from Failures**: DevOps tools and processes enable quick recovery from failures, minimizing downtime and ensuring application reliability.
+
+
+### Software Development Life Cycle (SDLC) Phases:
+
+1. **Planning**: 
+   - **Description**: Defines the project scope, objectives, and feasibility; gathers requirements and determines resource needs.
+   - **Importance**: Establishes a roadmap, aligning expectations for the project.
+
+2. **Requirements Gathering and Analysis**: 
+   - **Description**: Collects and analyzes detailed functional and non-functional requirements.
+   - **Importance**: Ensures the final product meets user needs and solves the intended problems.
+
+3. **Design**: 
+   - **Description**: Creates software architecture and design specifications based on requirements.
+   - **Importance**: Provides a clear framework for development, minimizing scope creep and miscommunication.
+
+4. **Development**: 
+   - **Description**: Developers write code according to design specifications using various programming tools.
+   - **Importance**: Transforms the design into a functioning software product.
+
+5. **Testing**: 
+   - **Description**: Conducts various testing methods to identify and fix defects.
+   - **Importance**: Ensures software reliability and adherence to quality standards before deployment.
+
+6. **Deployment**: 
+   - **Description**: Deploys the software to a production environment for user access, possibly in stages.
+   - **Importance**: Critical for allowing users to begin using the software without issues.
+
+7. **Maintenance**: 
+   - **Description**: Updates, improves, and repairs the software based on user feedback and evolving requirements.
+   - **Importance**: Keeps the software relevant, secure, and functional over time.
+
+8. **Feedback and Iteration**: 
+   - **Description**: Gathers continuous feedback for updates and enhancements, leading back to planning or requirements gathering.
+   - **Importance**: Ensures the software evolves with user needs and market conditions.
