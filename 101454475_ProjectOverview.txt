@@ -1,0 +1,1 @@
+This project involves GitHub collaboration, branching, and continuous integration.

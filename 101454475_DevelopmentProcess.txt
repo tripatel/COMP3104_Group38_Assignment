@@ -1,0 +1,4 @@
+Development Process:
+
+A leader creates GitHub repository.
+All the members commits 10 times each.
