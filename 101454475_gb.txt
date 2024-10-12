@@ -11,3 +11,10 @@ Health Sciences: Nursing, dental, and other healthcare-related fields.
 Hospitality and Culinary Arts: Renowned for its top-tier programs in culinary management, hospitality, and tourism.
 Construction and Engineering Technologies: Programs include construction management, civil engineering, and architectural technology.
 The college offers certificates, diplomas, degrees, and postgraduate certificates. It focuses on providing practical, career-oriented education with a strong emphasis on real-world applications.
+
+Campuses
+George Brown has three main campuses:
+
+St. James Campus: Home to business, hospitality, and culinary programs.
+Casa Loma Campus: Focuses on construction, engineering, and technology programs.
+Waterfront Campus: Specializes in health sciences and nursing programs.
