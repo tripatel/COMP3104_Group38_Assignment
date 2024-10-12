@@ -12,3 +12,15 @@ By the end of the course, students will be able to:
 6. Monitor code quality and deploy applications to hosting services.
 7. Utilize cloud platforms and Infrastructure as Code.
 8. Understand the DevOps engineer's role in the job market.
+
+Evaluation System:
+
+- **Passing Grade**: D (50%)
+- **Lab Exercises**: Complete 8 out of 10 labs, worth 16% of the final grade. (No AI usage allowed)
+- **Lecture Quizzes**: Best 8 out of 10 quizzes will be considered, worth 8% of the final grade. (No AI usage allowed)
+- **Individual Assignment**: Worth 10% of the final grade. (AI usage allowed)
+- **Group Assignment**: Worth 16% of the final grade. (AI usage allowed)
+- **Mid-term Exam**: Worth 20% of the final grade. (No AI usage allowed)
+- **Final Exam**: Worth 30% of the final grade. (No AI usage allowed)
+
+Total: 100%
