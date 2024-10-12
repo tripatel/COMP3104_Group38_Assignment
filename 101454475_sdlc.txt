@@ -52,3 +52,20 @@ Importance of DevOps:
 8. **Feedback and Iteration**: 
    - **Description**: Gathers continuous feedback for updates and enhancements, leading back to planning or requirements gathering.
    - **Importance**: Ensures the software evolves with user needs and market conditions.
+
+
+### Methodologies within SDLC
+
+1. **Waterfall**: 
+   - A linear and sequential approach where each phase must be completed before the next begins.
+
+2. **Agile**: 
+   - An iterative methodology focusing on flexibility, customer collaboration, and rapid delivery of software in small increments.
+
+3. **Scrum**: 
+   - An Agile framework that organizes development into time-limited sprints, promoting teamwork and accountability.
+
+4. **DevOps**: 
+   - Integrates development and operations to facilitate continuous delivery and integration, emphasizing collaboration and automation.
+
+These methodologies offer various approaches to managing the software development process, allowing teams to select the one that best suits their project requirements.
