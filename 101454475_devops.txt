@@ -1,1 +1,14 @@
 Devops course will teach students the methods, protocols, and best practices utilized by DevOps engineers to increase workplace efficiency. They will examine and evaluate various DevOps implementations while also gaining practical expertise with industry-standard tools. The training focuses on developing solutions to challenging business problems using basic DevOps responsibilities.
+
+Course Outcome:
+
+By the end of the course, students will be able to:
+
+1. Demonstrate knowledge of DevOps techniques, using industry-standard tools for continuous integration, delivery, and deployment.
+2. Apply DevOps techniques in hands-on lab work.
+3. Facilitate cross-team collaboration by following DevOps engineer roles and responsibilities.
+4. Use Version Control System workflows for low-risk software releases.
+5. Make informed architectural decisions, particularly regarding monolithic vs. microservice architectures.
+6. Monitor code quality and deploy applications to hosting services.
+7. Utilize cloud platforms and Infrastructure as Code.
+8. Understand the DevOps engineer's role in the job market.
