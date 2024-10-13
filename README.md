@@ -2,7 +2,7 @@
 ## Group Members
 - **Leader:** Trisha Patel (101412123) - [Github](https://github.com/tripatel)
 - **Member 2:** Smit Kothia (101395481) - [Github](https://github.com/SmitKothia)
-- **Member 3:** 
+- **Member 3:** Harshil Padsala (101410137) - [Github](https://github.com/HT-1611)
 - **Member 4:** Tenzin Thinley (101454475) - [GitHub](http://github.com/21Tenzin)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on 
