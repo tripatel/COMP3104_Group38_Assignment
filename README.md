@@ -1,6 +1,6 @@
 # COMP3104_Group1_Assignment
 ## Group Members
-- **Leader:** 
+- **Leader:** Trisha Patel (101412123) - [Github]
 - **Member 2:** 
 - **Member 3:** 
 - **Member 4:** Tenzin Thinley (101454475) - [GitHub](http://github.com/21Tenzin)
