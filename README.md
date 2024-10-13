@@ -1,7 +1,7 @@
 # COMP3104_Group1_Assignment
 ## Group Members
 - **Leader:** Trisha Patel (101412123) - [Github](https://github.com/tripatel)
-- **Member 2:** 
+- **Member 2:** Smit Kothia (101395481) - [Github](https://github.com/SmitKothia)
 - **Member 3:** 
 - **Member 4:** Tenzin Thinley (101454475) - [GitHub](http://github.com/21Tenzin)
 ## Project Description
